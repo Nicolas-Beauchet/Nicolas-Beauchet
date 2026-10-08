@@ -121,7 +121,7 @@ Si ce lab éveille votre curiosité, n'hésitez pas à consulter mon portfolio c
     <img src="https://img.shields.io/badge/Consulter_mon_Portfolio-8B4513?style=for-the-badge" alt="Portfolio">
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/nicolas-beauchet">
+  <a href="https://www.linkedin.com/in/nicolas-beauchet">
     <img src="https://img.shields.io/badge/Profil_LinkedIn-4CAF50?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
