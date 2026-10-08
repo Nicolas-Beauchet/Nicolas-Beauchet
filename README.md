@@ -16,7 +16,7 @@
 
 ## 📑 Sommaire
 
-* <a href="#-quête-principale-mon-profil">👤</a> Quête Principale (Mon Profil)
+* <a href="#-quête-principale-mon-profil">👤</a> Quête Principale
 * <a href="#-arsenal--environnement-technique">⚔️</a> Arsenal & Environnement Technique
 * <a href="#-carte-de-linfrastructure-interactive">🗺️</a> Carte de l'Infrastructure Interactive
 * <a href="#-projets-phares">🏰</a> Projets Phares
@@ -24,7 +24,7 @@
 
 <br>
 
-## 👤 Quête Principale (Mon Profil)
+## 👤 Quête Principale
 
 Après un premier chapitre de ma vie professionnelle où j'ai pu développer ma rigueur, ma gestion de projet et mon sens du service, j'ai choisi d'opérer un `reboot` de ma carrière pour me consacrer pleinement à ma passion : l'informatique et les infrastructures.
 
@@ -56,8 +56,6 @@ Mon expertise se concentre autour de trois piliers fondamentaux : la robustesse 
 <br>
 
 ## 🗺️ Carte de l'Infrastructure (Interactive)
-
-*Clique sur une zone de la carte pour explorer les donjons de mon infrastructure.*
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
