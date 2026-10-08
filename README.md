@@ -1,4 +1,4 @@
-[readme_github_profil_sio v6.md](https://github.com/user-attachments/files/33208934/readme_github_profil_sio.v6.md)
+
 <div align="center">
 
 <!-- Bannière générée dynamiquement avec police rétro, texte vert forêt et fond crème -->
