@@ -94,5 +94,5 @@ Mon expertise se concentre autour de trois piliers fondamentaux : la robustesse 
 Si ce lab éveille votre curiosité, n'hésitez pas à consulter mon portfolio complet pour des articles détaillés, ou à me retrouver sur les réseaux professionnels.
 
 * 📜 **Mon Portfolio :** [Lien vers ton portfolio]
-* 💼 **LinkedIn :** [Ton Lien LinkedIn]
-* ✉️ **Email :** [Ton Adresse Email professionnelle]
+* 💼 **LinkedIn :** [www.linkedin.com/in/nicolas-beauchet]
+
