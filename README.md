@@ -62,7 +62,7 @@ Mon expertise se concentre autour de trois piliers fondamentaux : la robustesse 
     <tr>
       <td style="border: none; padding: 0;">
         <a href="#-zone-cyber">
-          <img src="zone-cyber.png" width="100%" alt="Zone Cyber">
+          <img src="[zone-cyber.png](https://github.com/Nicolas-Beauchet/Nicolas-Beauchet/blob/main/zone-cyber.jpg?raw=true)" width="100%" alt="Zone Cyber">
         </a>
       </td>
       <td style="border: none; padding: 0;">
