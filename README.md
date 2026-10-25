@@ -61,24 +61,24 @@ Mon expertise se concentre autour de trois piliers fondamentaux : la robustesse 
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 0;">
-        <a href="#-zone-cyber">
+        <a href="#zone-cyber">
           <img src="zone-cyber.jpg" width="100%" alt="Zone Cyber">
         </a>
       </td>
       <td style="border: none; padding: 0;">
-        <a href="#-zone-linux">
+        <a href="#zone-linux">
           <img src="zone-linux.jpg" width="100%" alt="Zone Linux">
         </a>
       </td>
     </tr>
     <tr>
       <td style="border: none; padding: 0;">
-        <a href="#-zone-windows">
+        <a href="#zone-windows">
           <img src="zone-windows.jpg" width="100%" alt="Zone Windows">
         </a>
       </td>
       <td style="border: none; padding: 0;">
-        <a href="#-zone-reseau">
+        <a href="#zone-reseau">
           <img src="zone-reseau.jpg" width="100%" alt="Zone Réseau">
         </a>
       </td>
@@ -90,21 +90,21 @@ Mon expertise se concentre autour de trois piliers fondamentaux : la robustesse 
 
 ## 🏰 Projets Phares
 
+<a id="zone-cyber"></a>
 ### 🛡️ Zone Cyber
+- **Hardening d'un serveur Debian** : Script automatisé d'application des recommandations de sécurité de l'ANSSI.
 
-* **Hardening d'un serveur Debian** : Script automatisé d'application des recommandations de sécurité de l'ANSSI.
-
+<a id="zone-linux"></a>
 ### ⚔️ Zone Linux
+- **Automatisation Bash** : Scripts de sauvegarde (`cron`, `rsync`) et de monitoring système.
 
-* **Automatisation Bash** : Scripts de sauvegarde (`cron`, `rsync`) et de monitoring système.
-
+<a id="zone-windows"></a>
 ### 🗝️ Zone Windows
+- **Déploiement AD Multi-sites** : Configuration d'une forêt `Active Directory` sous Windows Server 2022 avec gestion des GPO.
 
-* **Déploiement AD Multi-sites** : Configuration d'une forêt `Active Directory` sous Windows Server 2022 avec gestion des GPO.
-
+<a id="zone-reseau"></a>
 ### 🗺️ Zone Réseau
-
-* **DMZ & Sécurisation Pfsense** : Mise en place d'une architecture réseau sécurisée avec `VLANs`, isolant les services web du réseau LAN.
+- **DMZ & Sécurisation Pfsense** : Mise en place d'une architecture réseau sécurisée avec `VLANs`, isolant les services web du réseau LAN.
 
 <br>
 
