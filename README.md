@@ -116,7 +116,7 @@ Si ce lab éveille votre curiosité, n'hésitez pas à consulter mon portfolio c
 
 <div align="center">
   <a href="#remplacer-par-ton-lien-portfolio">
-    <img src="https://img.shields.io/badge/Consulter_mon_Portfolio-8B4513?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Consulter_mon_Portfolio-8B4513?style](https://nicolas-beauchet.github.io/portfolio-bts-sio/=for-the-badge" alt="Portfolio">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nicolas-beauchet">
