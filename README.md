@@ -62,24 +62,24 @@ Mon expertise se concentre autour de trois piliers fondamentaux : la robustesse 
     <tr>
       <td style="border: none; padding: 0;">
         <a href="#-zone-cyber">
-          <img src="[zone-cyber.png](https://github.com/Nicolas-Beauchet/Nicolas-Beauchet/blob/main/zone-cyber.jpg?raw=true)" width="100%" alt="Zone Cyber">
+          <img src="zone-cyber.jpg" width="100%" alt="Zone Cyber">
         </a>
       </td>
       <td style="border: none; padding: 0;">
         <a href="#-zone-linux">
-          <img src="zone-linux.png" width="100%" alt="Zone Linux">
+          <img src="zone-linux.jpg" width="100%" alt="Zone Linux">
         </a>
       </td>
     </tr>
     <tr>
       <td style="border: none; padding: 0;">
         <a href="#-zone-windows">
-          <img src="zone-windows.png" width="100%" alt="Zone Windows">
+          <img src="zone-windows.jpg" width="100%" alt="Zone Windows">
         </a>
       </td>
       <td style="border: none; padding: 0;">
         <a href="#-zone-reseau">
-          <img src="zone-reseau.png" width="100%" alt="Zone Réseau">
+          <img src="zone-reseau.jpg" width="100%" alt="Zone Réseau">
         </a>
       </td>
     </tr>
